@@ -9,8 +9,7 @@
   - 猫
   - 建築物
   - 競プロ
-  　AtCoder緑の下の方
-  　https://atcoder.jp/users/tonomotohide
+  　[AtCoderで緑の下の方](https://atcoder.jp/users/tonomotohide)
   - ポーカー
   - 大喜利
   - 漫画
