@@ -1,3 +1,13 @@
 theme: jekyll-theme-cayman
 title: とーののほーむぺーじ
 description: とーのもとひでのHP
+lsi: false
+safe: true
+source: tonomotohide
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
